@@ -1,6 +1,6 @@
 import React from 'react';
 import WorkImg from '../assets/workImg.jpeg';
-import realEstate from '../assets/realestate.jpg';
+import Guildwebsite from '../assets/website.jpg';
 import Boat from "../assets/Boat-tour.png"
 import Genealogy from "../assets/Genealogy.png"
 import Growing from "../assets/growing2.png"
@@ -219,7 +219,7 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${Landing})` }}
+            style={{ backgroundImage: `url(${Guildwebsite})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -228,12 +228,12 @@ const Work = () => {
                 HTML Landing page
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://dillon-porter.github.io/landing-page/' target="_blank">
+                <a href='https://dillon-porter.github.io/guildwebsite/' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/dillon-porter/landing-page' target="_blank">
+                <a href='https://github.com/dillon-porter/guildwebsite' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
