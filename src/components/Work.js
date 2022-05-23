@@ -1,6 +1,6 @@
 import React from 'react';
 import WorkImg from '../assets/workImg.jpeg';
-import Guildwebsite from '../assets/website.jpg';
+import Guildwebsite from '../assets/website.png';
 import Boat from "../assets/Boat-tour.png"
 import Genealogy from "../assets/Genealogy.png"
 import Growing from "../assets/growing2.png"
